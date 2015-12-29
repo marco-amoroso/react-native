@@ -59,17 +59,11 @@ var styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
   },
-  horizontal: {
-    flexDirection: 'row',
-  },
   storyBackground: {
     width: 250,
     height: 150,
     borderWidth: 1,
     resizeMode: Image.resizeMode.stretch,
-  },
-  text: {
-    fontSize: 13.5,
   }
 });
 
